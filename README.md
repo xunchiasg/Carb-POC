@@ -12,7 +12,7 @@ https://getcarb.info/
 Team Members:
 
 - Jasan Farah, B. Computer Science, Southern Denmark University (SDU)
-- Xun Chia, B. Construction Managamanet, University of Newcastle, Australia (UON)
+- Xun Chia, B. Construction Management, University of Newcastle, Australia (UON)
 
 </br>
 
@@ -28,6 +28,12 @@ Team Members:
 
 -To be added
 -Insert Sizzle Reel Video for 'Carb'
+
+
+
+https://github.com/user-attachments/assets/f869e06e-92a9-4494-8c1a-37f8bcdf083a
+
+
 
 </br>
 
