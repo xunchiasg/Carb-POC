@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/1eb2f306-73d4-428b-97ab-0d2816757d10
 
 ***(Closed Beta as of 1 Oct 2024)***
 
-- User Email: demo@getcarb.info
+- User Email: demo@getcarb.io
 - Password: uBG9z8YlDZJwJE&%@BGN*3ntV&55R6Gd@9Ql
 
 
