@@ -28,8 +28,11 @@ https://github.com/user-attachments/assets/1eb2f306-73d4-428b-97ab-0d2816757d10
 
 
 ## Design/UI Documentation 
-***[Carb Design Documentation & Specifications](https://embed.figma.com/proto/DDfGc9xcTrQ6xQtNpQx1Gt/Carb-POC?page-id=0%3A1&node-id=142-512&starting-point-node-id=47%3A73&embed-host=share)***
+***[Carb Figma Design Prototype](https://embed.figma.com/proto/DDfGc9xcTrQ6xQtNpQx1Gt/Carb-POC?page-id=0%3A1&node-id=142-512&starting-point-node-id=47%3A73&embed-host=share)***
 ![POC Figma](https://github.com/user-attachments/assets/90b926b4-ae76-4e67-b382-ca11c5fa5a4e)
+![Carb_Analytics](https://github.com/user-attachments/assets/a541c3fc-e9b0-4404-9d5e-dfcc8311c9b2)
+
+
 </br>
 
 
